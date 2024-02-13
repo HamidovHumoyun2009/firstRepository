@@ -1,0 +1,1 @@
+[{"chatId":6843496663,"languageState":"UZ"},{"chatId":6843496663,"state":"UZ"},{"chatId":6843496663,"state":"UZ"},{"chatId":6843496663,"state":"UZ"},{"chatId":6843496663,"state":"START"}]
